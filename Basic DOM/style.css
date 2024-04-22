@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#H1{
+    color: blueviolet;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+#pa{
+    color: chocolate;
+    font-weight: 800;
+    font-size: 25px;
+}
